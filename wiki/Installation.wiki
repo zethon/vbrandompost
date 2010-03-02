@@ -1,0 +1,8 @@
+#summary Installation Instructions
+
+= Details =
+
+  * upload files in the UPLOAD directory
+  * import proudct-randompost.xml
+  * add randompost.php to your navigation menu
+  * configure options in vBulletin Options
